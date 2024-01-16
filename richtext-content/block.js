@@ -24,7 +24,7 @@
 			}
 			return el( RichText, {
 				tagName: 'div',
-				className: 'imasz_content ' + props.className,
+				className: 'imasz_content blank ' + props.className,
 				onChange: onChangeContent,
 				value: content,
 			} );

@@ -3,6 +3,7 @@ div.block-editor-block-list__insertion-point{display:none !important}
 div.block-list-appender{margin:0 0 -32px 0 !important}
 div.block-list-appender button{width:auto !important;background-color:#fff !important;padding:0 !important;outline:0 !important}
 .imasz_block{position:relative;border:1px dashed #555d66;padding:25px 20px 20px 20px;}
+.imasz_block.link{margin:20px auto}
 .imasz_block.link:before{content:'<a>';display:block;position:absolute;top:-8px;left:8px;background:#fff;font-size:14px;line-height:16px;font-weight:400;color:#555d66}
 .imasz_block.link:after{content:'</a>';display:block;position:absolute;bottom:-8px;right:8px;background:#fff;font-size:14px;line-height:16px;font-weight:400;color:#555d66}
 .block_options_switch{position:relative;text-align:right;margin-top:-36px;margin-bottom:-1px}

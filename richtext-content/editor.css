@@ -1,4 +1,6 @@
 .wp-block{max-width:98%}
 div.block-editor-block-list__insertion-point{display:none !important}
-.imasz_content{position:relative}
-.imasz_content:before{content:'';display:block;position:absolute;top:0;left:-17px;width:3px;height:100%;background:#555d66}
+.imasz_content{position:relative;border:1px dashed #555d66;padding:25px 20px 20px 20px;}
+.imasz_content.blank{margin:20px auto}
+.imasz_content.blank:before{content:'no tag';display:block;position:absolute;top:-8px;left:8px;background:#fff;font-size:14px;line-height:16px;font-weight:400;color:#555d66}
+.imasz_content.blank:after{content:'no tag';display:block;position:absolute;bottom:-8px;right:8px;background:#fff;font-size:14px;line-height:16px;font-weight:400;color:#555d66}

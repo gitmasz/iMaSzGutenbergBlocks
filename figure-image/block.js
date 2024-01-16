@@ -43,7 +43,7 @@
 			
 			return el(
 				'div',
-				{ className: 'imasz_content image ' + props.className },
+				{ className: 'imasz_content figure ' + props.className },
 					el( MediaUpload, {
 						onSelect: onSelectImage,
 						allowedTypes: 'image',
