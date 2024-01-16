@@ -1,0 +1,8 @@
+.wp-block{max-width:98%}
+div.block-editor-block-list__insertion-point{display:none !important}
+div[data-type="imasz-gutenberg/figure-image"]{display:inline-block;vertical-align:middle}
+.imasz_content.image{width:180px;padding:5px;text-align:center;border:0 none;box-sizing:border-box}
+.imasz_content.image:before{display:none}
+.imasz_content.image button.button.button-large{margin:30px}
+.imasz_content.image button.image_button{height:100%;padding:5px;border:1px solid #555d66;margin:0}
+.imasz_content.image img{display:inline-block;width:130px;height:auto;}
