@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Plugin Name: iMaSz Gutenberg
- * Description: This is a plugin with blocks for the Gutenberg editor dedicated for developers.
- * Version: 1.0.0
- * Author: Marcin Szczepkowski
- *
- * @package imasz-gutenberg
- */
-
 defined( 'ABSPATH' ) || exit;
 
 function gutenberg_inner_div_register_block() {
